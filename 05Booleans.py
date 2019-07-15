@@ -36,3 +36,4 @@ print(text.endswith('d'))
 #bool(0) is false
 #bool(any number =! 0) is true
 # includes floats and complex numbers
+
