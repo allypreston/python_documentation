@@ -39,3 +39,8 @@ pika = {
 print(pika['personality']['jumpy'])
 
 # important methods
+keys = pika.keys()
+print(keys)
+
+values = pika.values()
+print(values)
