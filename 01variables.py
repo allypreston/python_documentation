@@ -14,3 +14,5 @@ my_variable = "I'm new content being reassigned to my_variable " + 'more thing'
 
 #print variable
 print(my_variable)
+
+#it is stored in the cpu registers
