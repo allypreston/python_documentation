@@ -19,3 +19,23 @@ print(pika['age'])
 # reassign values using the keys
 pika['age'] = 18
 print(pika['age'])
+
+#adding a key value
+pika['colour'] = 'yellowish'
+print(pika)
+
+# dictionaries within dictionaries
+
+pika = {
+    'name': 'Derik',
+    'pokemon': 'Pikachu',
+    'age': 17,
+    'personality': {
+        'grumpy': 10,
+        'jumpy': 2,
+        'lazy':150
+    }
+}
+print(pika['personality']['jumpy'])
+
+# important methods
