@@ -19,7 +19,7 @@ favourite_pokemon = input("What is your favourite pokemon? > ")
 print(full_name)
 print(date)
 print(date_reason)
-print(funny_fact
+print(funny_fact)
 print(favourite_pokemon)
 
 number = input("Could you give me a number? > ")
