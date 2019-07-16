@@ -50,3 +50,5 @@ print(values)
 # meaning they do not change
 #syntax
     #tuple_list = ("values")
+
+#we cannot change the entries in the tuple, but we can edit arrays and dictionaries inside the tuple
