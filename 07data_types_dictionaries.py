@@ -44,3 +44,9 @@ print(keys)
 
 values = pika.values()
 print(values)
+
+# Tuples
+# Tuples are immutable lists
+# meaning they do not change
+#syntax
+    #tuple_list = ("values")
